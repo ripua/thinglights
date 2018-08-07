@@ -1,8 +1,7 @@
 ####################
 # Simplicity Studio
 ####################
-GNU\ ARM\ v4.8.3\ -\ Debug/
-
+GNU\ ARM*/
 #taken from: https://github.com/SiliconLabs/makersguide/blob/master/.gitignore
 
 #################
